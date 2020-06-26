@@ -61,6 +61,8 @@ p {
 }
 .profile-container img {
     width: 200px;
+    height: 200px;
+    border-radius: 100px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
